@@ -1,5 +1,5 @@
-token=NDk0MDE0MTAwMjU5NzMzNTE0.DtUOEw.tkN7Key2hYXo4UnZQ4QTIs1Kxds
-owner=466425075487342615
-prefix=h
-game=Hamo.
+token=NTE0NDA2MTIxNDE1Mzc2OTE3.DtWFqg.qOusnDzUYFd05RHgK8hZK_Nfw4s
+owner=449004475961573376
+prefix=A
+game=! ALAWY-HDR
 stayinchannel=true
