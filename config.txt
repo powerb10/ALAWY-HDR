@@ -3,4 +3,3 @@ owner=466425075487342615
 prefix=h
 game=Hamo.
 stayinchannel=true
-songinstatus=true
