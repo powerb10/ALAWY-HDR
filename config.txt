@@ -1,6 +1,6 @@
-token=NTEwNTA3ODYyNDIyODQ3NTE4.DsdXDw.s1Z4lYVfK1mHK6VObnThdVfuDyE
-owner=479090634813341696 
-prefix=2
-game=OLD Server.
+token=NDk0MDE0MTAwMjU5NzMzNTE0.DtUOEw.tkN7Key2hYXo4UnZQ4QTIs1Kxds
+owner=466425075487342615
+prefix=h
+game=Hamo.
 stayinchannel=true
 songinstatus=true
