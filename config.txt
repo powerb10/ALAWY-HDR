@@ -1,0 +1,6 @@
+token=NTEwNTA3ODYyNDIyODQ3NTE4.DsdXDw.s1Z4lYVfK1mHK6VObnThdVfuDyE
+owner=479090634813341696 
+prefix=2
+game=OLD Server.
+stayinchannel=true
+songinstatus=true
